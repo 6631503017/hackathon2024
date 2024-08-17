@@ -1,0 +1,14 @@
+{
+  "name": "hackathon2024",
+  "version": "1.0.0",
+  "description": "- **6531503039** Jeff \r - **6531503096** Feem \r - **6631503017** Best\r - **6631503034** Ohm\r - **6631503044** Sathu\r - **6631503114** Cocoa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
