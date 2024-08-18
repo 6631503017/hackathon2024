@@ -1,5 +1,5 @@
 <template>
     <div>
-        Logged in
+        regis
     </div>
 </template>
