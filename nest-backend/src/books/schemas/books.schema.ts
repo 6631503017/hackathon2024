@@ -17,9 +17,6 @@ export class Book {
   
     @Prop({ type: [String], default: [] })
     tags: string[];
-  
-    @Prop({ type: Types.ObjectId, ref: 'User', required: true })
-    author: Types.ObjectId;
 }
 
 export const BookSchema = SchemaFactory.createForClass(Book);
